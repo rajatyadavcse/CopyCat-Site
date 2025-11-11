@@ -1,2 +1,2 @@
-# CopyCat-Site
-Site that lets you download CopyCat app for MacOS, windows or Linux.
+# CopyArchive-Site
+Site that lets you download CopyArchive app for MacOS, windows or Linux.
